@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/danilo94/{project}.svg)](http://hits.dwyl.com/danilo94/{project})
 <!--
 **danilo94/danilo94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project})
