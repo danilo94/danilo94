@@ -2,7 +2,8 @@
 
 My name is Danilo Almeida, I'm a Software Engineer living in Belo Horizonte.
 
-I like to write code and create projects involving: Emulation, Hardware Hacking, IoT and A.I.
+I like to write code and create projects involving: Emulation, Hardware Hacking, IoT and A.I. 
+And document everything on my social medias :D
 
 
 ### You can find me on:
@@ -16,8 +17,8 @@ I like to write code and create projects involving: Emulation, Hardware Hacking,
 
 
 
-
-[![Danilo github stats](https://github-readme-stats.vercel.app/api?username=danilo94)](https://github.com/danilo94)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo94&layout=compact)](https://github.com/danilo94)
-
-
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo94&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?danilo94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
