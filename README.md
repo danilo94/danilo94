@@ -22,3 +22,5 @@ And document everything on my social medias :D
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo94&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilo94&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
 </div>
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=danilo94"/> </p>
